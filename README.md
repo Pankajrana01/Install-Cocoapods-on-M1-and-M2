@@ -1,4 +1,5 @@
-# Install-Cocoapods-on-M1-and-M2
+# Install CocoaPods on M1 & M2 MacBooks 
+
 Install Cocoapods on M1 and M2 Macbook easily without Errors
 
 Installing CocoaPods on Apple Silicon chip M1 and M2-based Macbooks has become a headache for many as it throws several errors during the installation process.
@@ -66,6 +67,7 @@ Step 6: After this check installed pod version.
 Thank You !!
 
 
-[Pankaj Rana ](https://www.linkedin.com/in/pankaj-rana-7b3b9212a)
+[LinkedIn - Pankaj Rana](https://www.linkedin.com/in/pankaj-rana-7b3b9212a)
 
+[Medium - Pankaj Rana](https://medium.com/@pankajrana.rana01/install-cocoapods-on-m1-m2-macbooks-16282849cb23)
 
